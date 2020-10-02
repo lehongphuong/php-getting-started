@@ -52,5 +52,5 @@
 			echo "[]";
 		}
 	}
-	$conn->close();
+	// $conn->close();
 ?>

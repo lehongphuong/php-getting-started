@@ -38,6 +38,6 @@ if (isset($data->what)) {
 	} 
 }
 
-$conn->close();
+// $conn->close();
 
 ?>
